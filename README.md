@@ -10,3 +10,4 @@ I am interested in:
 - Motion and tracking
 - Scene analysis and understanding
 - 6DoF pose estimation and tracking
+- AR/VR/MR/XR software development
