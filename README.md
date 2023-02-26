@@ -5,6 +5,7 @@ I am (currently) interested in:
 - 6DoF pose estimation
 - AR/VR/MR/XR software development
 - Photogrammetry and remote sensing
+- Computer graphics for synthetic data
 - Motion and tracking
 - Recognition: detection, categorization and retrieval
 - Image/Video synthesis and generation
