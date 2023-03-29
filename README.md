@@ -10,3 +10,10 @@ I am (currently) interested in:
 - Recognition: detection, categorization and retrieval
 - Image/Video synthesis and generation
 - Video Analytics
+
+TODO list:
+- [x] OnePose Dataset Collector
+- [ ] Clean OnePose
+- [ ] Segmentation for clean data for NVIDIA MoMA
+- [ ] Multi-Realsense wireless setup
+- [ ] 3D human pose estimation in crowded scenes
