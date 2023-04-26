@@ -13,7 +13,8 @@ I am (currently) interested in:
 
 TODO list:
 - [x] OnePose Dataset Collector
+- [x] Segmentation for clean data for NVIDIA MoMA
 - [ ] Clean OnePose
-- [ ] Segmentation for clean data for NVIDIA MoMA
+- [ ] Recover camera intrinsics from camera look-up table (LUT)
 - [ ] Multi-Realsense wireless setup
 - [ ] 3D human pose estimation in crowded scenes
