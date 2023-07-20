@@ -1,4 +1,5 @@
-### Data Science and Analytics (DSA) undergraduate at the National University of Singapore (NUS)
+### (BSc Hons.) Data Science and Analytics (DSA) from the National University of Singapore (NUS)
+### Incoming (MS) Computer Science (CS) student at University of Central Florida
 |Computer Vision|Machine-Learning|Deep-Learning|
 
 I am (currently) interested in:
@@ -14,7 +15,7 @@ I am (currently) interested in:
 TODO list:
 - [x] OnePose Dataset Collector
 - [x] Segmentation for clean data for NVIDIA MoMA
+- [x] Recover camera intrinsics from camera look-up table (LUT)
 - [ ] Clean OnePose
-- [ ] Recover camera intrinsics from camera look-up table (LUT)
 - [ ] Multi-Realsense wireless setup
 - [ ] 3D human pose estimation in crowded scenes
