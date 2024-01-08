@@ -1,5 +1,5 @@
+### (MS) Computer Science (CS) student at University of Central Florida
 ### (BSc Hons.) Data Science and Analytics (DSA) from the National University of Singapore (NUS)
-### Incoming (MS) Computer Science (CS) student at University of Central Florida
 |Computer Vision|Machine-Learning|Deep-Learning|
 
 I am (currently) interested in:
@@ -18,4 +18,3 @@ TODO list:
 - [x] Recover camera intrinsics from camera look-up table (LUT)
 - [ ] Clean OnePose
 - [ ] Multi-Realsense wireless setup
-- [ ] 3D human pose estimation in crowded scenes
