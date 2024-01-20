@@ -3,9 +3,9 @@
 |Computer Vision|Machine-Learning|Deep-Learning|
 
 I am (currently) interested in:
+- Photogrammetry (SfM, NeRFs)
 - 6DoF pose estimation
 - AR/VR/MR/XR software development
-- Photogrammetry and remote sensing
 - Computer graphics for synthetic data
 - Motion and tracking
 - Recognition: detection, categorization and retrieval
@@ -16,5 +16,4 @@ TODO list:
 - [x] OnePose Dataset Collector
 - [x] Segmentation for clean data for NVIDIA MoMA
 - [x] Recover camera intrinsics from camera look-up table (LUT)
-- [ ] Clean OnePose
 - [ ] Multi-Realsense wireless setup
