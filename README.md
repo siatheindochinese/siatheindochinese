@@ -3,7 +3,7 @@
 |Computer Vision|Machine-Learning|Deep-Learning|
 
 I am (currently) interested in:
-- Photogrammetry (SfM, NeRFs)
+- Photogrammetry (SfM, NeRF, Gaussian Splatting)
 - 6DoF pose estimation
 - AR/VR/MR/XR software development
 - Computer graphics for synthetic data
