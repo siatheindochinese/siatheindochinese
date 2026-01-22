@@ -1,16 +1,16 @@
-### (MS) Computer Science (CS) from University of Central Florida (UCF)
-### (BSc Hons.) Data Science and Analytics (DSA) from the National University of Singapore (NUS)
-|Computer Vision|Machine-Learning|Deep-Learning|Multimodal/Vision-Language|
+### MS Computer Science from University of Central Florida (UCF)
+### BSc Hons. Data Science and Analytics from the National University of Singapore (NUS)
+|Computer Vision|Machine-Learning|Deep-Learning|Multimodaity|
 
-I am interested in:
-- Multimodality (e.g.  vision-language)
-- Online Video-LLMs
+I am currently working on:
+- 3D representation learning
+- Multimodality (Vision-Language-Action)
 
 Previously worked on:
 - Video-Language Modelling
 - Spatio-temporal action detection
 - Weakly/Semi-supervised learning for video action detection
-- 3D digital representations and scene understanding (SfM, NeRF, Gaussian Splatting)
+- 3D representations and scene understanding (SfM, NeRF, Gaussian Splatting)
 - 6DoF pose estimation
 - AR/VR/MR/XR
 - Computer graphics for synthetic data
