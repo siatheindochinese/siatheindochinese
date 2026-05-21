@@ -3,16 +3,15 @@
 |Computer Vision|Machine-Learning|Deep-Learning|Multimodaity|
 
 I am currently working on:
-- 3D representation learning
+- 3D vision for autonomous driving
 - Multimodality (Vision-Language-Action)
 
 Previously worked on:
 - Video-Language Modelling
 - Spatio-temporal action detection
-- Weakly/Semi-supervised learning for video action detection
-- 3D representations and scene understanding (SfM, NeRF, Gaussian Splatting)
+- Weakly/Semi-supervised learning
+- 3D representations and scene understanding
 - 6DoF pose estimation
-- AR/VR/MR/XR
 - Computer graphics for synthetic data
 
 <img src="2dv.gif" width="800">
