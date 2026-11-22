@@ -2,16 +2,18 @@
 ### BSc Hons. Data Science and Analytics from the National University of Singapore (NUS)
 |Computer Vision|Machine-Learning|Deep-Learning|Multimodaity|
 
-I am currently working on:
-- 3D vision for autonomous driving
-- Multimodality (Vision-Language-Action)
+I am currently interested in:
+- (Real-time) Agentic Systems
+- Physical / Embodied AI
 
 Previously worked on:
+- 3D vision for autonomous driving
+- Motion planning / Trajectory estimation for autonomous driving
+- Multimodality (Vision-Language-Action)
 - Video-Language Modelling
 - Spatio-temporal action detection
 - Weakly/Semi-supervised learning
 - 3D representations and scene understanding
-- 6DoF pose estimation
 - Computer graphics for synthetic data
 
 <img src="2dv.gif" width="800">
